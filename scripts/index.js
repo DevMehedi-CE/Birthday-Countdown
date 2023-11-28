@@ -7,7 +7,7 @@ let sound = new Audio();
 sound.src = "/ritu.mp3" 
 
 const config = {
-  // birthdate: 'Nov 29, 2023', 
+  birthdate: 'Nov 29, 2023', 
   name: 'Ritu'
 };
 
